@@ -21,4 +21,3 @@ long arrayManipulation(int n, vector<vector<int> > queries)
 
     return max_val;
 }
-
